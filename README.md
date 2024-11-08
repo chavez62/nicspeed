@@ -19,8 +19,8 @@ Make sure you have Python 3.x installed. You'll also need the `psutil` library, 
 pip install psutil
 ```
 
-git clone https://github.com/yourusername/nic-speed-checker.git
-cd nic-speed-checker
+- git clone https://github.com/yourusername/nic-speed-checker.git
+- cd nic-speed-checker
 
-Run the script
+## Run the script
 python nic_speed_checker.py
