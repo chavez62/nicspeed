@@ -23,4 +23,6 @@ pip install psutil
 - cd nic-speed-checker
 
 ## Run the script
+```bash
 python nic_speed_checker.py
+```
